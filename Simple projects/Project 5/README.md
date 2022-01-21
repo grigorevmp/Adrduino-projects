@@ -9,7 +9,7 @@ Simple script to start wave blinking leds
 **Input:** -
 
 **Output:** 
-- "11" led light
+- Wave led lights
 
 # Schema
 
