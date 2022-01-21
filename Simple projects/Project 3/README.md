@@ -14,4 +14,4 @@ Simple script to change led brightness
 
 # Schema
 
-![This is an image](https://github.com/grigorevmp/Adrduino-projects\Adrduino-projects\Simple-projects\Project-3\schema.png)
+![Test image](https://github.com/grigorevmp/Adrduino-projects/blob/main/Simple%20projects/Project%203/schema.png)
