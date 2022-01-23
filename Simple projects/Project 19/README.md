@@ -11,6 +11,4 @@
 
 # Schema
 
-In example I don't use Transistros and resistors. Just Buzzer with button
-
 ![Test image](https://github.com/grigorevmp/Adrduino-projects/blob/main/Simple%20projects/Project%2019/screen.png)
